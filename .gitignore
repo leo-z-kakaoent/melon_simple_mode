@@ -1,3 +1,7 @@
+*.parquet
+/model
+*.pth
+*.npy
 *.csv
 *.png
 /data
